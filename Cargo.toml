@@ -1,0 +1,6 @@
+[package]
+name = "cmdpro"
+version = "0.1.0"
+authors = ["Sean Humeniuk <seanhumeniuk@gmail.com>"]
+
+[dependencies]
