@@ -4,7 +4,7 @@ A command line parameter parser written in Rust.
 
 ## Example
 
-```
+```rust
 extern crate cmdpro;
 
 use cmdpro::{CommandLineProcessor, ParameterType, ParameterValue};
